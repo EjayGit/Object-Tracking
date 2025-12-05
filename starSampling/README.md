@@ -1,1 +1,3 @@
+# Object-Tracking
 
+When running the .exe, ensure that MATLAB runtime is installed, and there is a video file in the same folder called 'video.xxx', where xxx, is either avi or mp4, and that the file that the .exe file that is selected is for that file type.
